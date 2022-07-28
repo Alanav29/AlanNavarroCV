@@ -58,7 +58,7 @@ h1{
     justify-content: center;
 }
 
-.foto_perfil{
+.image_profile{
     width: 25vw;
     height: 25vw;
     display: block;
@@ -67,7 +67,7 @@ h1{
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
 }
 
-.foto_perfil img{
+.image_profile img{
     width: 25vw;
     height: 25vw;
     border-radius: 999px;
@@ -80,7 +80,7 @@ h1{
     justify-content: center;
 }
 
-h2{
+h3{
     font-size: 3rem;
     margin: 0;
     margin-bottom: 1vw;
@@ -135,7 +135,7 @@ p{
 
 /* Contenedor secundario; educacion, experiencia */
 
-.contenedor_secundario{
+.skills{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -151,7 +151,7 @@ p{
     width: 40vw;
 }
 
-h3{
+h2{
     font-size: 2rem;
     color: var(--color-educacion);
     margin: 0;
